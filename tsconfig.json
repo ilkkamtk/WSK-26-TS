@@ -1,6 +1,7 @@
 {
   "compilerOptions": {
     "outDir": "./build",
+    "rootDir": "./task2/src",
     "target": "ESNext",
     "module": "ESNext",
     "noImplicitAny": true,
