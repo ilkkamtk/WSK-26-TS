@@ -2,10 +2,10 @@
   "compilerOptions": {
     "outDir": "./build",
     "rootDir": "./task2/src",
-    "target": "ESNext",
-    "module": "ESNext",
+    "target": "esnext",
+    "module": "esnext",
     "noImplicitAny": true,
     "strict": true
   },
-  "include": ["./**/*.ts"]
+  "include": ["./task2/**/*.ts"]
 }
