@@ -1,11 +1,11 @@
 {
   "compilerOptions": {
     "outDir": "./build",
-    "rootDir": "./task6/src",
+    "rootDir": "./esimerkki/src",
     "target": "esnext",
     "module": "esnext",
     "noImplicitAny": true,
     "strict": true
   },
-  "include": ["./task6/**/*.ts"]
+  "include": ["./esimerkki/**/*.ts"]
 }
